@@ -4,8 +4,8 @@ A menu recommendation chatbot for Sejong University student
 ## Naming and branding of the proposed project
 세미상궁(Semi Sanggung)
 
-## ReadtheDocs
-https://semi-sanggung.readthedocs.io/en/latest/
+## Documentation
+Documentation is available on Read the Docs: https://semi-sanggung.readthedocs.io/en/latest/
 
 ## Mission Statement
 A menu recommendation chatbot for Sejong University students. Chatbot recommends a menu 
