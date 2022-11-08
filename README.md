@@ -22,7 +22,7 @@ etc. through question
 - Server : flask
 
 ## Contributor
-- 20011802 이 빈
+- 20011802 이  빈
 - 20011818 정소윤
 - 20011821 박지인
 - 20011826 김민정
