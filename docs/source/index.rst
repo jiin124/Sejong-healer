@@ -8,8 +8,11 @@ Welcome to Semi-Sanggung's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: content:
 
+   content/about.md
+   content/install.md
+   content/use.md
 
 
 Indices and tables
