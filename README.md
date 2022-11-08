@@ -5,7 +5,7 @@ A menu recommendation chatbot for Sejong University student
 세미상궁(Semi Sanggung)
 
 ## ReadtheDocs
-https://semi-sanggung.readthedocs.io/en/latest/ <https://semi-sanggung.readthedocs.io/en/latest/>
+https://semi-sanggung.readthedocs.io/en/latest/
 
 ## Mission Statement
 A menu recommendation chatbot for Sejong University students. Chatbot recommends a menu 
