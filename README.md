@@ -16,6 +16,6 @@ etc. through question
 - Tell me about restaurants that offer recommended menus
 
 ## Target Development Language
-- ng : Python 3.6
+- Lang : Python 3.6
 - IDE/CodeEditor : VScode
 - Server : flask
