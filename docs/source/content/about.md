@@ -1,20 +1,16 @@
-# About the Project : Semi-Sanggung
-A menu recommendation chatbot for Sejong University student  
-Documentation is available on Read the Docs: https://semi-sanggung.readthedocs.io/en/latest/
+# About the Project : Sejong Healer
+A chatbot for psychological counseling of Sejong University students 
+Documentation is available on Read the Docs: https://sejong-healer.readthedocs.io/en/latest/
 
 ## Naming and branding of the proposed project
-세미상궁(Semi Sanggung)
+Sejong Healer
 
 ## Mission Statement
-A menu recommendation chatbot for Sejong University students. Chatbot recommends a menu 
-of school restaurants or restaurants around Sejong University through several questions to 
-Sejong University students.
+According to 2020 statistics, more than half of college students thought their lives were not happy at present. Therefore, it is intended to help relieve stress through conversation by creating a chatbot for psychological counseling of Sejong University students.
 
 ## Features List
-- Identify the user's food preferences, financial circumstances, location, mood, food type, 
-etc. through question
-- Recommend menu considering user information you have identified
-- Tell me about restaurants that offer recommended menus
+- Talk about what you want to consult through this chat.
+- Then, the AI chatbot sends a reply appropriate to the consultation.
 
 ## Target Development Language
 - Lang : Python 3.6
