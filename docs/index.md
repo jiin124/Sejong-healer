@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Sejong_Healer
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
