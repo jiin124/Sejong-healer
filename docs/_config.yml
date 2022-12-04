@@ -97,7 +97,7 @@ title: "Sejong Healer" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/title_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://jiin124.github.io/Sejong-healer/" #"https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://jiin124.github.io/Sejong-healer/"
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -122,13 +122,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: ABOUT
-  url: https://jiin124.github.io/Sejong-healer/about/
+  url: /Sejong-healer/about/
 - title: FEATURES
-  url: https://jiin124.github.io/Sejong-healer/features/
+  url: /Sejong-healer/features/
 - title: CONTACT US
-  url: https://jiin124.github.io/Sejong-healer/contact/
+  url: /Sejong-healer/contact/
 - title: COMMUNITY
-  url: https://jiin124.github.io/Sejong-healer/community/
+  url: /Sejong-healer/community/
 
 
 navigation_footer:
