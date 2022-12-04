@@ -13,7 +13,7 @@ As COVID-19 is prolonged, the "COVID-19 Blue" phenomenon, which feels depressed,
 In particular, more than half of college students think their lives are not happy, and their happiness index is 53.3 points on average based on 100 points. According to Albamon's survey of 989 male and female college students on the "Happiness Index & Stress Index" college students themselves scored 53.3 points on average out of 100.
 
 ## Mission Statement
-However, college students are reluctant to consult with psychiatricians because they are busy, fearing that medical records will remain and affect their future employment. Therefore, we are trying to come up with a way to comfort the mind by creating a psychological counseling chatbot.
+College students are reluctant to consult with psychiatricians because they are busy, fearing that medical records will remain and affect their future employment. Therefore, we are trying to come up with a way to comfort the mind by creating a psychological counseling chatbot.
 
 ## Features List
 - Talk about what you want to consult through this chat.
