@@ -19,7 +19,8 @@ def get_dataset():
 model = cached_model()
 df = get_dataset()
 
-st.header('Sejong-Healer')
+st.header('🌿Sejong-Healer🌿')
+st.markdown("심리 상담을 해주는 챗봇, 세종힐러입니다.")
 
 if 'generated' not in st.session_state:
     st.session_state['generated'] = []
