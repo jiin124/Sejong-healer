@@ -1,8 +1,7 @@
 ---
 title: FEATURES
 layout: features
-#excerpt: "Category index"
-aside: true
+permalink: "Sejong-healer/features"
 ---
 
 Hi
