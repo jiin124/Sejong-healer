@@ -33,3 +33,13 @@ SentenceBERT [jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-srobe
 - 20011818 정소윤
 - 20011821 박지인
 - 20011826 김민정
+
+## Connect method
+After opening the visual studio code terminal
+
+```
+cd "healer chatbot"
+streamlit run chatbot.py
+```
+
+There may be additional files that need to be installed.
