@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Sejong-healer/about/
+permalink: /about/
 ---
 
 ## Mission Statement
