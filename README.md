@@ -1,10 +1,10 @@
-# Sejong-Healer
+# 🌿Sejong-Healer🌿
 Psychological counseling chatbot for Sejong University students.
 
 Documentation is available on Read the Docs: https://sejong-healer.readthedocs.io/en/latest/
 
 ## Naming and branding of the proposed project
-Sejong Healer
+🌿Sejong Healer🌿
 
 ## Mission Statement
 According to 2020 statistics, more than half of college students thought their lives were not happy at present. Therefore, it is intended to help relieve stress through conversation by creating a chatbot for psychological counseling of Sejong University students.
