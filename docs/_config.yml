@@ -122,13 +122,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: ABOUT
-  url: /about/
+  url: https://jiin124.github.io/Sejong-healer/about/
 - title: FEATURES
-  url: /features/
+  url: https://jiin124.github.io/Sejong-healer/features/
 - title: CONTACT US
-  url: /contact/
+  url: https://jiin124.github.io/Sejong-healer/contact/
 - title: COMMUNITY
-  url: /community/
+  url: https://jiin124.github.io/Sejong-healer/community/
 
 
 navigation_footer:
@@ -156,3 +156,5 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+
+theme: alembic-jekyll-theme
