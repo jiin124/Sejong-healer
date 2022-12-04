@@ -1,7 +1,7 @@
 ---
 title: FEATURES
-layout: features
-permalink: "Sejong-healer/features"
+layout: page
+permalink: /features/
 ---
 
 Hi
