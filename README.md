@@ -19,7 +19,6 @@ According to 2020 statistics, more than half of college students thought their l
 ## Target Development Language
 - Lang : Python 3.6
 - IDE/CodeEditor : VScode
-- Server : flask
 - Tool : streamlit, streamlit-chat, sentence-transformers
 
 ## Pretrained Model
