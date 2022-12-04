@@ -12,7 +12,7 @@ sys.path.insert(0,os.path.abspath('.'))
 import subprocess
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'myst-parser'])
 
-project = 'Semi-Sanggung'
+project = 'Sejong Healer'
 copyright = '2022, group 03'
 author = 'group 03'
 release = '1.0.0'
