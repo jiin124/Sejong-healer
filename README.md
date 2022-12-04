@@ -6,6 +6,9 @@ Documentation is available on Read the Docs: https://sejong-healer.readthedocs.i
 ## Naming and branding of the proposed project
 🌿Sejong Healer🌿
 
+![image](https://user-images.githubusercontent.com/72074338/205481122-d85a4bbf-0822-4bf9-b7fd-d6fd1c137e4d.png)
+
+
 ## Mission Statement
 According to 2020 statistics, more than half of college students thought their lives were not happy at present. Therefore, it is intended to help relieve stress through conversation by creating a chatbot for psychological counseling of Sejong University students.
 
