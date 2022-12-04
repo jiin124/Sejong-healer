@@ -1,8 +1,8 @@
 ---
 title: Sejong_Healer
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Sejong_Healer
+  According to 2020 statistics, more than half of college students thought their lives were not happy at present. Therefore, it is intended to help relieve stress through conversation by creating a chatbot for psychological counseling of Sejong University students.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "According to 2020 statistics, more than half of college students thought their lives were not happy at present. Therefore, it is intended to help relieve stress through conversation by creating a chatbot for psychological counseling of Sejong University students."
 ---
