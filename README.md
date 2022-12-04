@@ -1,10 +1,6 @@
 # Sejong-Healer
-<<<<<<< HEAD
 Psychological counseling chatbot for Sejong University students.
 
-=======
-Psychological counseling chatbot for Sejong University students  
->>>>>>> a0b9d2b1cb8d407f06cdf7d315d308f97adf9655
 Documentation is available on Read the Docs: https://semi-sanggung.readthedocs.io/en/latest/
 
 ## Naming and branding of the proposed project
