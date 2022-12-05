@@ -11,3 +11,4 @@ excerpt: "According to 2020 statistics, more than half of college students thoug
 
 ## Latest News
 
+{% include post-list.html %}
