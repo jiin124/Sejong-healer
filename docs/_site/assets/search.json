@@ -1,0 +1,82 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Description of an Alembic",
+        "excerpt": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container.\n\n",
+        "content": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container.\n\n\n\nRetorts have the “cap” and the “cucurbit” made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.\n\nOriginally from Alembic - Wikipedia\n",
+        "url": "/Sejong-healer/general/external%20sources/2016/08/27/example-post-one/"
+      },
+    
+      {
+        "title": "History of the Alembic",
+        "excerpt": "Dioscorides’ ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.\n\n",
+        "content": "Dioscorides’ ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.\n\n\n\nAlembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]\n\nThe anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]\n\nOriginally from Alembic - Wikipedia\n",
+        "url": "/Sejong-healer/history/external%20sources/2016/08/28/example-post-two/"
+      },
+    
+      {
+        "title": "Description of a Pot Still",
+        "excerpt": "A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).\n",
+        "content": "A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).\n\nAt standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called “low wines”. The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.\n\nThe modern pot still is a descendant of the alembic, an earlier distillation device.\n",
+        "url": "/Sejong-healer/general/2016/08/29/example-post-three/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "\n",
+    "content": "🌿Sejong-Healer🌿\nPsychological counseling chatbot for Sejong University students.\nDocumentation is available on Read the Docs: https://sejong-healer.readthedocs.io/en/latest/\n\nProblem Statement\nAs COVID-19 is prolonged, the “COVID-19 Blue” phenomenon, which feels depressed, is spreading. In particular, young people in their 20s and 30s are reaching a level that threatens normal life. According to a recent COVID-19 national mental health survey released by the Ministry of Health and Welfare in the first quarter of 2021, the proportion of depression risk groups in their 20s and 30s is more than twice as high as those in their 20s and 30s and 60s (14.4%), respectively, indicating that young people are more negatively affected by COVID-19.\n\nIn particular, more than half of college students think their lives are not happy, and their happiness index is 53.3 points on average based on 100 points. According to Albamon’s survey of 989 male and female college students on the “Happiness Index &amp; Stress Index” college students themselves scored 53.3 points on average out of 100.\n\nMission Statement\nCollege students are reluctant to consult with psychiatricians because they are busy, fearing that medical records will remain and affect their future employment. Therefore, we are trying to come up with a way to comfort the mind by creating a psychological counseling chatbot.\n\nTarget Development Language\n\n  Lang : Python 3.6\n  IDE/CodeEditor : VScode\n  Tool : streamlit, streamlit-chat, sentence-transformers\n\n\nPretrained Model\nSentenceBERT jhgan/ko-sroberta-multitask\n\nDataset\n웰니스 대화 스크립트 데이터셋\n\nContributor\n\n  20011802 이빈\n  20011818 정소윤\n  20011821 박지인\n  20011826 김민정\n\n\nConnect method\nAfter opening the visual studio code terminal\n\ncd \"healer chatbot\"\nstreamlit run chatbot.py\n\n\nThere may be additional files that need to be installed.\n",
+    "url": "/Sejong-healer/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/Sejong-healer/categories/"
+  },
+  
+  {
+    "title": "Community",
+    "excerpt": "\n",
+    "content": "Mailing List\n\nCommunication Channel\n\n",
+    "url": "/Sejong-healer/community/"
+  },
+  
+  {
+    "title": "Contact Us",
+    "excerpt": "\n",
+    "content": "\n\n\n\n\n\n\n\n\n  \n    Contact\n    Name: *\n    \n\n    Email Address: *\n    \n\n    Message: *\n    \n\n    \n    \n    * indicates a required field\n\n    \n      \n      \n      \n    \n  \n\n\n  \n  Please enable JavaScript to use the form.\n\n\n",
+    "url": "/Sejong-healer/contact/"
+  },
+  
+  {
+    "title": "Elements",
+    "excerpt": "A demo of Markdown and HTML includes\n",
+    "content": "Heading 1\n\nHeading 2\n\nHeading 3\n\nHeading 4\n\nHeading 5\n\nHeading 6\n\nA small element\n\nA link\n\nLorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.\n\nDuis aute irure dolor in A link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.\n\n\n  An item\n  An item\n  An item\n  An item\n  An item\n\n\n\n  Item one\n  Item two\n  Item three\n  Item four\n  Item five\n\n\n\n  A simple blockquote\n\n\nSome HTML…\n\n&lt;blockquote cite=\"http://www.imdb.com/title/tt0284978/quotes/qt1375101\"&gt;\n  &lt;p&gt;You planning a vacation, Mr. Sullivan?&lt;/p&gt;\n  &lt;footer&gt;\n    &lt;a href=\"http://www.imdb.com/title/tt0284978/quotes/qt1375101\"&gt;Sunways Security Guard&lt;/a&gt;\n  &lt;/footer&gt;\n&lt;/blockquote&gt;\n\n\n…CSS…\n\nblockquote {\n  text-align: center;\n  font-weight: bold;\n}\nblockquote footer {\n  font-size: .8rem;\n}\n\n\n…and JavaScript\n\nconst blockquote = document.querySelector(\"blockquote\")\nconst bolden = (keyString, string) =&gt;\n  string.replace(new RegExp(keyString, 'g'), '&lt;strong&gt;'+keyString+'&lt;/strong&gt;')\n\nblockquote.innerHTML = bolden(\"Mr. Sullivan\", blockquote.innerHTML)\n\n\nSingle line of code\n\nHTML Includes\n\nContact form\n\n\n  \n    Contact\n    Name: *\n    \n\n    Email Address: *\n    \n\n    Message: *\n    \n\n    \n    \n    * indicates a required field\n\n    \n      \n      \n      \n    \n  \n\n\n\n\nPlease enable JavaScript to use the form.\n\n{% include site-form.html %}\n\n\nDemo map embed\n\n\n\n{% include map.html id=\"XXXXXX\" title=\"Coffee shop map\" %}\n\n\nButton include\n\nA button\n\nA button with icon  twitter\n\n\n{% include button.html text=\"A button\" link=\"https://david.darn.es\" %}\n{% include button.html text=\"A button with icon\" link=\"https://twitter.com/daviddarnes\" icon=\"twitter\" %}\n\n\nIcon include\n\ntwitter\ntwitter\n\n\n{% include icon.html id=\"twitter\" title=\"twitter\" %}\n[{% include icon.html id=\"linkedin\" title=\"twitter\" %}](https://www.linkedin.com/in/daviddarnes)\n\n\nVideo include\n\n\n  \n\n\n{% include video.html id=\"zrkcGL5H3MU\" title=\"Siteleaf tutorial video\" %}\n\n\nImage includes\n\n\n  \n  Image with caption\n\n\n\n  \n  Right aligned image\n\n\n\n  \n  Left aligned image\n\n\n\n  \n  \n\n\n{% include figure.html image=\"https://picsum.photos/600/800?image=894\" caption=\"Image with caption\" width=\"300\" height=\"800\" %}\n\n{% include figure.html image=\"https://picsum.photos/600/800?image=894\" caption=\"Right aligned image\" position=\"right\" width=\"300\" height=\"800\" %}\n\n{% include figure.html image=\"https://picsum.photos/600/800?image=894\" caption=\"Left aligned image\" position=\"left\" width=\"300\" height=\"800\" %}\n\n{% include figure.html image=\"https://picsum.photos/1600/800?image=894\" alt=\"Image with just alt text\" %}\n\n",
+    "url": "/Sejong-healer/elements/"
+  },
+  
+  {
+    "title": "Features",
+    "excerpt": "\n",
+    "content": "\n\n\n  Talk about what you want to consult through this chat.\n  Then, the AI chatbot sends a reply appropriate to the consultation.\n\n",
+    "url": "/Sejong-healer/features/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "Search for a page or post you’re looking for\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/Sejong-healer/search/"
+  }
+  
+]
+
