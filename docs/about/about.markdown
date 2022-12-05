@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: About
-permalink: /about/
+sitemap: false
+redirect_to: https://jiin124.github.io/Sejong-healer/about/
 ---
 
 ## Mission Statement
