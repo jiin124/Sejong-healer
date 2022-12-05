@@ -124,7 +124,9 @@ navigation_header:
 - title: ABOUT
   url: /about/
 - title: FEATURES
-  url: /features/
+  redirect_from:
+  - /jiin124.github.io/Sejong-healer/
+  - /jiin124.github.io/Sejong-healer/features
 - title: CONTACT US
   url: /contact/
 - title: COMMUNITY
