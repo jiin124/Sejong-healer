@@ -122,11 +122,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: ABOUT
-  url: ./about/
+  url: /about/
 - title: FEATURES
-  redirect_from:
-  - /jiin124.github.io/Sejong-healer/
-  - /jiin124.github.io/Sejong-healer/features
+  url : /features/
 - title: CONTACT US
   url: /contact/
 - title: COMMUNITY
