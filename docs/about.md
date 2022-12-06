@@ -6,7 +6,7 @@ permalink: ./about/
 
 ## 🌿Sejong-Healer🌿
 Psychological counseling chatbot for Sejong University students.  
-Documentation is available on Read the Docs: https://sejong-healer.readthedocs.io/en/latest/
+Documentation is available on Read the Docs: <a href="https://sejong-healer.readthedocs.io/en/latest/">here!</a>
 
 ### Problem Statement
 As COVID-19 is prolonged, the "COVID-19 Blue" phenomenon, which feels depressed, is spreading. In particular, young people in their 20s and 30s are reaching a level that threatens normal life. According to a recent COVID-19 national mental health survey released by the Ministry of Health and Welfare in the first quarter of 2021, the proportion of depression risk groups in their 20s and 30s is more than twice as high as those in their 20s and 30s and 60s (14.4%), respectively, indicating that young people are more negatively affected by COVID-19.   
