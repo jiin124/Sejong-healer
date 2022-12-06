@@ -10,5 +10,4 @@ excerpt: "According to 2020 statistics, more than half of college students thoug
 {% include button.html text="Download ↓" link="https://github.com/jiin124/Sejong-healer" color="#0366d6" %} {% include button.html text="Documentation →" link="https://sejong-healer.readthedocs.io/en/latest/" color="#f68140" %}
 
 ## Latest News
-<hr>
 {% include post-list.html %}
