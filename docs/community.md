@@ -12,7 +12,7 @@ The open-source project has inspired an enthusiastic and active community of use
     - jena4075@gmail.com
     - leebin0603@gmail.com
 
-## Communication Channel
+## Communication Channels
 Communication is central to all meaningful collaboration and teamwork. Communication keeps a whole organization moving. There are different ways we can communicate such as written communication, verbal communication, non-verbal communication and visual communication.
 
     1. Face-to-face conversations   
